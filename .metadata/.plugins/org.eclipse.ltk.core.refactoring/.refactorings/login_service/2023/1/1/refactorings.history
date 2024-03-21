@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;VaildatingDTO.java&apos; to &apos;claim_service/src/main/java/com.hcm.claim.dto&apos;&#x0D;&#x0A;- Original project: &apos;login_service&apos;&#x0D;&#x0A;- Destination element: &apos;claim_service/src/main/java/com.hcm.claim.dto&apos;&#x0D;&#x0A;- Original element: &apos;com.hcm.login.dto.VaildatingDTO.java&apos;" description="Copy compilation unit" destination="=claim_service/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.hcm.claim.dto" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.hcm.login.dto{VaildatingDTO.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1672832216983" units="1" version="1.0"/>
+</session>

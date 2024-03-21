@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;productService/src/main/resources/templates&apos;&#x0D;&#x0A;- Original project: &apos;couponService&apos;&#x0D;&#x0A;- Destination element: &apos;productService/src/main/resources/templates&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     getCoupon.html&#x0D;&#x0A;     couponDetails.html" description="Copy files" destination="=productService/src\/main\/resources\/templates" element1="src/main/resources/templates/getCoupon.html" element2="src/main/resources/templates/couponDetails.html" files="2" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1689056761200" units="0" version="1.0"/>
+</session>
